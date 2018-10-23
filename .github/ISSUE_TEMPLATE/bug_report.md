@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 
----
+---wow this is hard work lol
 
 **Describe the bug**
 A clear and concise description of what the bug is.
